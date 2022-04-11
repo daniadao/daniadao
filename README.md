@@ -4,9 +4,10 @@
 <a href="https://www.linkedin.com/in/daniela-adão-a521921a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
-<a href="https://github.com/daniadao">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniadao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniadao&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/daniado">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
   
  ## **Linguagens e Ferramentas**
