@@ -3,7 +3,7 @@
 <a href = "mailto:daniacadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniela-adão-a521921a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/daniadao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniadao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniadao&layout=compact&langs_count=7&theme=midnight-purple"/>
