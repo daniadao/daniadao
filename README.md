@@ -12,22 +12,28 @@
   
  ## **Linguagens e Ferramentas**
   ####  Uso diário 🖥️:
- <div style="display: inline_block"><br>
-   <img align="center" alt="Dani-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Dani-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-   <img  align="center" alt="Dani-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg"> 
-   <img align="center" alt="Dani-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-   <img align="center" alt="Dani-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  </div>
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ ![Mysql](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
+
   
   ####  Ciência de dados 📊:
- <div style="display: inline_block"><br>
-   <img align="center" alt="Dani-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-   <img align="center" alt="Dani-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
- <img align="center" alt="Dani-Skl" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-   <img align="center" alt="Dani-Jupter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-   
- </div> 
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ 
+ #### ⚙️ Engenharia de dados:
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ 
+ 
+  #### 📖 Estou aprendendo:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+ 
+ </div>
 
   
   
