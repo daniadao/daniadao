@@ -5,14 +5,11 @@
 # 👋 Olá!! 
 Tenho 36 anos, moro em Santa Catarina e sou apaixonada por tecnologia ! Sou iniciante no universo da ciência de dados, e quanto mais eu aprendo mais eu amo fico fascinada por essa área!  ❤
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
-<div align="center">
-  <a href="https://github.com/daniado">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniadao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniadao&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
   
  ## **Linguagens e Ferramentas**
   ####  Uso diário 🖥️:
@@ -39,5 +36,10 @@ Tenho 36 anos, moro em Santa Catarina e sou apaixonada por tecnologia ! Sou inic
  
  </div>
 
-  
+<div align="center">
+  <a href="https://github.com/daniado">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniadao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniadao&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>  
   
