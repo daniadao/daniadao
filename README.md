@@ -1,7 +1,11 @@
-👋
-# Olá!! Sou Daniela Adão Ciêntista de Dados Jr.
+
 <a href = "mailto:daniacadam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniela-adão-a521921a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+# 👋 Olá!! 
+Tenho 36 anos, moro em Santa Catarina e sou apaixonada por tecnologia ! Sou iniciante no universo da ciência de dados, e quanto mais eu aprendo mais eu amo fico fascinada por essa área!  ❤
+
+
 
 <div align="center">
   <a href="https://github.com/daniado">
